@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/6836046a0024f0249403/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
+[![BentoHub grid image](https://live.staticflickr.com/65535/54549995200_594f924832_c.jpg)]
 <!--
 **ashpatx/ashpatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
