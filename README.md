@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[<a href="https://bentohub.netlify.app/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/6836046a0024f0249403/preview?project=667d35ca0017fb21fc6c" /></a>
-]
+<a href="https://bentohub.netlify.app/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/6836046a0024f0249403/preview?project=667d35ca0017fb21fc6c" /></a>
+
 <!--
 **ashpatx/ashpatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
